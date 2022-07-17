@@ -15,7 +15,8 @@ Our nG-PLC next-generation power grid communication technology, prototypes of ch
 # My personal contribution to the project
 ## Full-Stack Development
 I've developed the website [Regularus.ru](https://regularus.ru/) using Django Framework
-Features:
+
+### Features:
 * Realtime detailed statistics represented in the convenient visual form of graphs and diagrams.
 * Multi-level access to administrative features control
 * **TCP Server** working with low-level technical services (data proccessing and remote control)
